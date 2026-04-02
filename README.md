@@ -1,5 +1,21 @@
-# Welcome to GitHub Desktop!
+🎓 Online Exam System
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+A simple Online Exam System built using PHP, MySQL, HTML, and CSS.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+🚀 Features
+👨‍🎓 Student
+Register & Login
+Start exam
+Answer MCQ questions
+Get instant score
+View results
+🛠 Admin
+Add questions
+View questions
+Delete questions
+🧱 Technologies Used
+PHP
+MySQL
+HTML
+CSS
+Laragon (Local Server)
