@@ -5,10 +5,15 @@ A simple Online Exam System built using PHP, MySQL, HTML, and CSS.
 🚀 Features
 👨‍🎓 Student
 Register & Login
+
 Start exam
+
 Answer MCQ questions
+
 Get instant score
+
 View results
+
 🛠 Admin
 Add questions
 View questions
