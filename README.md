@@ -3,9 +3,9 @@
 A simple Online Exam System built using PHP, MySQL, HTML, and CSS.
 
 
-🚀 Features
+**🚀 Features
 
-👨‍🎓 Student
+*👨‍🎓 Student
 
 Register & Login
 
@@ -17,7 +17,7 @@ Get instant score
 
 View results
 
-🛠 Admin
+*🛠 Admin
 
 Add questions
 
@@ -25,7 +25,7 @@ View questions
 
 Delete questions
 
-🧱 Technologies Used
+**🧱 Technologies Used
 
 PHP
 
